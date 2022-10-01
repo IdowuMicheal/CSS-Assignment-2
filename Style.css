@@ -1,0 +1,45 @@
+
+*{
+    background-color: rgb(117, 34, 34);
+}
+.images{
+    background-image: url(./images/keyboard.jpg);
+    background-blend-mode: overlay;
+
+    padding: 10px 10px 10px 30px;
+    background-color: brown;
+    text-align: center;
+    color: white;
+}
+    body{
+    
+        color: white;
+        font-size: medium;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: auto;
+    }
+
+h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}    
+p{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+
+ul{
+    margin: 0px auto 0px 50px;
+}
+li{
+    padding-bottom: 25px;
+}
+#foot{
+    text-align: center;
+}
